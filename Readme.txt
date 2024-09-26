@@ -1,3 +1,5 @@
+Attached is template from bootstrap README.MD:
+
 Thanks for downloading this template!
 
 Template Name: Mentor
